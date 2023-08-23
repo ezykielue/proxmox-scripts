@@ -29,7 +29,7 @@ curl -sL https://raw.githubusercontent.com/ezykielue/proxmox/main/lxc/nginx-prox
 you can set these parameters by appending ` -- <parameter> <value>` like:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/ej52/proxmox/main/lxc/nginx-proxy-manager/create.sh | bash -s -- --cores 4
+curl -sL https://raw.githubusercontent.com/ezykielue/proxmox-scripts/main/lxc/nginx-proxy-manager/create.sh | bash -s -- --cores 4
 ```
 
 ### Console
